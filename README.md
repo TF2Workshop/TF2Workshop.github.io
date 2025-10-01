@@ -7,4 +7,4 @@ testing
 
 testing
 
-![Alt text](https://github.com/TF2Workshop/TF2Workshop.github.io/blob/main/artstylespectrum.png)
+![Alt text](https://raw.githubusercontent.com/TF2Workshop/TF2Workshop.github.io/refs/heads/main/artstylespectrum.png)
